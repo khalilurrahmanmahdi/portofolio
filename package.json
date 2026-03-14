@@ -45,7 +45,6 @@
 "three": "^0.170.0"
 },
 "devDependencies": {
-"@types/locomotive-scroll": "4.1.4",
 "@types/node": "^20.12.7",
 "@types/nodemailer": "^6.4.15",
 "@types/react": "^18.3.3",
